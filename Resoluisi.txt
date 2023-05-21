@@ -3,3 +3,4 @@ Resolusi Untuk Saya
 - Konsisten Mempelajari OOPhp Secara Serius
 - Konsisten Mempelajari JS secara Serius
 - Pelajari Lagi Tentang Konsep Desain
+- Test
